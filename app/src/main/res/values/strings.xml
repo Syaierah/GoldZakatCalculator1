@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">GoldZakatCalculator2</string>
+    <string name="app_name">Gold Zakat Calculator</string>
+    <string name="calculation_summary">RESULT SUMMARY</string>
+    <string name="total_gold_value_label">Total Gold Value</string>
+    <string name="zakat_payable_value_label">Zakat Payable Value</string>
+    <string name="total_zakat_label">TOTAL ZAKAT PAYABLE</string>
+    <string name="default_rm_value">RM 0.00</string>
+    <string name="rm_format">RM %.2f</string>
+
+    <string name="label_weight">1. Gold Weight (gram)</string>
+    <string name="label_type">2. Type of Gold</string>
+    <string name="label_value">3. Gold Value per Gram (RM)</string>
+    <string name="hint_weight">Enter weight in gram</string>
+    <string name="hint_value">Enter value per gram</string>
+    <string name="btn_calculate">CALCULATE</string>
+    <string name="btn_reset">RESET</string>
+    <string name="type_keep">Keep\nUruf 85 gram</string>
+    <string name="type_wear">Wear\nUruf 200 gram</string>
 </resources>
